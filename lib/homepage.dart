@@ -22,7 +22,7 @@ class _HomepageState extends State<Homepage> {
               child: Card(
                 child: Center(
                     child: Text(
-                  "Note : Tap on your device type and download",
+                  "Note : Tap on your device type and download \n Android apk size is reduced from 18mb to 7.5mb",
                   style: GoogleFonts.openSans(
                       fontSize: 20.0,
                       fontWeight: FontWeight.bold,
